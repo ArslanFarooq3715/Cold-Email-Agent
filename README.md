@@ -141,6 +141,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Hassan - [Your Contact Information]
+Arslan - 
 
 Project Link: [https://github.com/yourusername/cold-email-generator](https://github.com/yourusername/cold-email-generator)
