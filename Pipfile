@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+ipykernel = "*"
+jupyterlab = "*"
+langchain-groq = {version = "*", index = "pypi"}
+dotenv = "*"
+python-dotenv = "*"
+chromadb = "*"
+langchain-community = "*"
+streamlit = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.13"
